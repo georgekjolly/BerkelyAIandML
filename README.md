@@ -4,7 +4,7 @@ Jupyter Note Book link : https://github.com/georgekjolly/BerkelyAIandML-5.1/blob
 
 I have completed the analysis for Bar coupons and Coffee house coupons. Please find the findings below:
 
-**BAR COUPON ANALYSIS**
+**BAR COUPON ANALYSIS FINDINGS**
 
 **>>Based on the observations, the following hypotheses can be formulated about drivers who accepted the bar coupons:**
 
