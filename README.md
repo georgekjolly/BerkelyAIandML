@@ -32,3 +32,29 @@ Drivers who are not widowed and frequently visit bars are more likely to accept 
 **Restaurant Habits and Income:**
 
 Drivers who frequently (more than 4 times a month) visit cheap restaurants and have an income below $50,000 are more likely to accept bar coupons. This suggests that individuals with budget-conscious spending patterns and lower income are more responsive to discounts or promotions.
+
+**>>Drivers with a lower acceptance rate for bar coupons exhibit the following characteristics:**
+
+**Low Frequency of Bar Visits:**
+
+Drivers who go to a bar 3 or fewer times a month are less likely to accept bar coupons. This suggests that their lifestyle or preferences are not aligned with bar-going activities, making them less interested in related promotions.
+
+**Age Factor:**
+
+Drivers who are 25 years old or younger (and do not meet the other criteria for high acceptance) may show less interest in bar coupons. They may prioritize other social activities or lack financial independence to spend on bars.
+
+**Passenger Type:**
+
+Drivers who typically travel with children as passengers are less likely to accept bar coupons. This could indicate family-oriented individuals who are less inclined toward bar visits due to their responsibilities or lifestyle.
+
+**Occupational Profile:**
+
+Drivers involved in farming, fishing, or forestry occupations are less likely to accept bar coupons. These occupations might be associated with rural areas where bars are less accessible, or these individuals may have a cultural preference against frequent bar visits.
+
+**Marital Status:**
+
+Drivers who are widowed tend to have a lower acceptance rate for bar coupons. This could reflect a reduced inclination toward social outings like bar visits.
+
+**Income and Dining Patterns:**
+
+Drivers who go to cheap restaurants fewer than 4 times a month and have an income above $50,000 are less likely to accept bar coupons. This group might have other dining preferences, prioritize more expensive or exclusive venues, or simply not be responsive to promotional offers.
