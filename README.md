@@ -1,6 +1,10 @@
 Required Assignment 5.1: Will the Customer Accept the Coupon?
 
-I have completed the assingment by checking if 
+Jupyter Note Book link : https://github.com/georgekjolly/BerkelyAIandML-5.1/blob/main/prompt.ipynb
+
+I have completed the analysis for Bar coupons and Coffee house coupons. Please find the findings below:
+
+**BAR COUPON ANALYSIS**
 
 **>>Based on the observations, the following hypotheses can be formulated about drivers who accepted the bar coupons:**
 
