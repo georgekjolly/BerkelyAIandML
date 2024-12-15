@@ -60,7 +60,7 @@ Drivers who are widowed tend to have a lower acceptance rate for bar coupons. Th
 
 Drivers who go to cheap restaurants fewer than 4 times a month and have an income above $50,000 are less likely to accept bar coupons. This group might have other dining preferences, prioritize more expensive or exclusive venues, or simply not be responsive to promotional offers.
 
-**Next steps and recommendations :**
+**>Next steps and recommendations :**
 
 *Segmentation and Targeting*
 
@@ -173,7 +173,7 @@ Drivers are less likely to accept coffee house coupons in situations where:
 
 **Outside typical coffee consumption hours:** Drivers may be less inclined to accept coupons at times other than morning hours, such as late afternoon or evening.
 
-**Next Steps and Recommendations:**
+**>Next Steps and Recommendations:**
 
 *Segmentation and Targeting*
 
